@@ -1,0 +1,22 @@
+.lyrics p { 
+  font-size: 18px;
+  margin: 40px 300px;
+  background-color: #343436;
+  color: #FFF;
+  padding: 40px;
+}
+  
+ .lyrics h2 {
+   font-size: 40px;
+   color: #343436;
+   font-weight: bold;
+}
+
+.lyrics small {
+  font-size: 30px;
+  color: #F0416C;
+  font-weight: bold;
+          }  
+body {
+  background-image: url(https://s.yimg.com/fz/api/res/1.2/kW.XHriDhKZKxjKzq_1.dg--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpbGw7aD0yODA7cHhvZmY9MDtweW9mZj0wO3E9ODA7dz01MDI-/http://d1.yimg.com/sr/imgv1/2/9b5a1d2e-796e-34df-aebb-8cd4d40ac499);
+}
